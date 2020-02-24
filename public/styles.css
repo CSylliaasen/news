@@ -1,0 +1,20 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: linear-gradient(to right, rgba(228,224,238,0), rgba(78,42,132,1));
+}
+h1{
+    font-size: 36px;
+    font-weight: bolder;
+}
+h2{
+    font-size: 28px;
+    font-weight: bold;
+}
+h3{
+    font-size: 24px;
+}
+p{
+    font-size: 18px;
+}
+
